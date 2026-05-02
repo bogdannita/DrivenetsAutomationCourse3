@@ -8,4 +8,4 @@ for line in f:
     # print(f"line: {line}", end="")
     print(f"line: {line.rstrip()}")
 
-
+f.close()
